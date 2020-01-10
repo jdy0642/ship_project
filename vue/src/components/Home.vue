@@ -2,7 +2,7 @@
 <div id="app" >
 <layout>
    <template #header="h" >
-    <v-app id="inspire" style="height:800;" >
+    <v-app id="inspire" style="height:800;">
   <!-- --------------------------------------- 네비 ------------------------------------------ -->
       <div >
         <v-toolbar class="sticky" color="indigo darken-1" >
