@@ -1,7 +1,7 @@
 <template>
 <div id="app" >
 <layout>
-   <template #header="h" >
+   <template #header="h">
     <v-app id="inspire" style="height:800;">
   <!-- --------------------------------------- 네비 ------------------------------------------ -->
       <div >
