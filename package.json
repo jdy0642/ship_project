@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "es6-promise": "^4.2.8",
     "v-switch-case": "^1.0.3",
     "vue-element-loading": "^1.1.5",
